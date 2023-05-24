@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 50%;
+  height: 100%;
+}
+.mern ul {
+  margin-top: 15px;
+  flex-direction: column;
+}
+.mern li {
+  list-style: circle;
+  margin: 8px 0 0 15px;
+}
